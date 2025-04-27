@@ -30,3 +30,10 @@ module "frontdoor" {
 
     resource_group_name = "az-sample-frontdoor-rg"
 }
+
+module "cosmosdb" {
+    count = var.project_name == "sample-cosmosdb" ? 1 : 0
+    source = "./projects/sample-cosmosdb"
+
+    resource_group_name = "az-sample-cosmosdb-rg"
+}

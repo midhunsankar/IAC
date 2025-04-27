@@ -5,4 +5,5 @@
 ### sample-containerapp, sample-b2c, 
 
 #project_name = "sample-containerapp"
-project_name = "sample-frontdoor-b2c"
+#project_name = "sample-frontdoor-b2c"
+project_name = "sample-cosmosdb"

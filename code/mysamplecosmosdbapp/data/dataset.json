@@ -1,0 +1,242 @@
+[
+    {
+        "ID":          "1",
+        "Name":        "Mountain Bike",
+        "Brand":       "trek",
+        "Category":    "mountain",
+        "Subcategory": "hardtail",
+        "Price":       1200.00,
+        "Stock":       10,
+        "Description": "A great mountain bike for all terrains.",
+        "Subtitle":    "Ride the trails with confidence",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "2",
+        "Name":        "Road Bike",
+        "Brand":       "giant",
+        "Category":    "road",
+        "Subcategory": "racing",
+        "Price":       1500.00,
+        "Stock":       5,
+        "Description": "A lightweight bike for speed enthusiasts.",
+        "Subtitle":    "Speed and agility on the road",
+        "Thumb":       "road.jpg",
+        "Images": [
+            "road.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "3",
+        "Name":        "Hybrid Bike",
+        "Brand":       "cannondale",
+        "Category":    "hybrid",
+        "Subcategory": "commuter",
+        "Price":       800.00,
+        "Stock":       8,
+        "Description": "Perfect for city commuting and weekend rides.",
+        "Subtitle":    "Versatile and comfortable for all rides",
+        "Thumb":       "hybrid.jpg",
+        "Images": [
+            "hybrid.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "4",
+        "Name":        "Electric Bike",
+        "Brand":       "specialized",
+        "Category":    "electric",
+        "Subcategory": "mountain",
+        "Price":       3000.00,
+        "Stock":       2,
+        "Description": "An electric bike for effortless rides.",
+        "Subtitle":    "Power up your ride with electric assistance",
+        "Thumb":       "electric.jpg",
+        "Images": [
+            "electric.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "5",
+        "Name":        "BMX Bike",
+        "Brand":       "haro",
+        "Category":    "bmx",
+        "Subcategory": "freestyle",
+        "Price":       500.00,
+        "Stock":       15,
+        "Description": "A bike designed for tricks and stunts.",
+        "Subtitle":    "Unleash your creativity with BMX",
+        "Thumb":       "bmx.jpg",
+        "Images": [
+            "bmx.jpg"
+        ],
+        "Gender":      "unisex"
+    },
+    {
+        "ID":          "6",
+        "Name":        "Trail Mountain Bike",
+        "Brand":       "santa cruz",
+        "Category":    "mountain",
+        "Subcategory": "trail",
+        "Price":       2500.00,
+        "Stock":       7,
+        "Description": "A high-performance bike for trail adventures.",
+        "Subtitle":    "Conquer the trails with ease",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "7",
+        "Name":        "Enduro Mountain Bike",
+        "Brand":       "yeti",
+        "Category":    "mountain",
+        "Subcategory": "enduro",
+        "Price":       3200.00,
+        "Stock":       4,
+        "Description": "Built for aggressive downhill and uphill rides.",
+        "Subtitle":    "Push your limits with enduro performance",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "8",
+        "Name":        "Cross Country Mountain Bike",
+        "Brand":       "scott",
+        "Category":    "mountain",
+        "Subcategory": "cross country",
+        "Price":       1800.00,
+        "Stock":       6,
+        "Description": "A lightweight bike for long-distance mountain rides.",
+        "Subtitle":    "Speed and endurance for cross-country trails",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "male"
+    },
+    {
+        "ID":          "9",
+        "Name":        "Women's Mountain Bike",
+        "Brand":       "trek",
+        "Category":    "mountain",
+        "Subcategory": "hardtail",
+        "Price":       1300.00,
+        "Stock":       9,
+        "Description": "A mountain bike designed for women riders.",
+        "Subtitle":    "Confidence and comfort on the trails",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "female"
+    },
+    {
+        "ID":          "10",
+        "Name":        "Women's Road Bike",
+        "Brand":       "giant",
+        "Category":    "road",
+        "Subcategory": "racing",
+        "Price":       1600.00,
+        "Stock":       4,
+        "Description": "A road bike tailored for women who love speed.",
+        "Subtitle":    "Agility and performance for women riders",
+        "Thumb":       "road.jpg",
+        "Images": [
+            "road.jpg"
+        ],
+        "Gender":      "female"
+    },
+    {
+        "ID":          "11",
+        "Name":        "Women's Hybrid Bike",
+        "Brand":       "cannondale",
+        "Category":    "hybrid",
+        "Subcategory": "commuter",
+        "Price":       850.00,
+        "Stock":       7,
+        "Description": "A hybrid bike perfect for women commuters.",
+        "Subtitle":    "Comfort and versatility for daily rides",
+        "Thumb":       "hybrid.jpg",
+        "Images": [
+            "hybrid.jpg"
+        ],
+        "Gender":      "female"
+    },
+    {
+        "ID":          "12",
+        "Name":        "Women's Electric Bike",
+        "Brand":       "specialized",
+        "Category":    "electric",
+        "Subcategory": "mountain",
+        "Price":       3100.00,
+        "Stock":       3,
+        "Description": "An electric bike designed for women riders.",
+        "Subtitle":    "Effortless rides with electric assistance",
+        "Thumb":       "electric.jpg",
+        "Images": [
+            "electric.jpg"
+        ],
+        "Gender":      "female"
+    },
+    {
+        "ID":          "13",
+        "Name":        "Kids BMX Bike",
+        "Brand":       "haro",
+        "Category":    "bmx",
+        "Subcategory": "freestyle",
+        "Price":       550.00,
+        "Stock":       12,
+        "Description": "A BMX bike for kids who love tricks and stunts.",
+        "Subtitle":    "Unleash your creativity with BMX",
+        "Thumb":       "bmx.jpg",
+        "Images": [
+            "bmx.jpg"
+        ],
+        "Gender":      "unisex"
+    },
+    {
+        "ID":          "14",
+        "Name":        "Women's Trail Mountain Bike",
+        "Brand":       "santa cruz",
+        "Category":    "mountain",
+        "Subcategory": "trail",
+        "Price":       2600.00,
+        "Stock":       6,
+        "Description": "A trail bike designed for women adventurers.",
+        "Subtitle":    "Conquer the trails with confidence",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "female"
+    },
+    {
+        "ID":          "15",
+        "Name":        "Women's Enduro Mountain Bike",
+        "Brand":       "yeti",
+        "Category":    "mountain",
+        "Subcategory": "enduro",
+        "Price":       3300.00,
+        "Stock":       3,
+        "Description": "An enduro bike built for women who love challenges.",
+        "Subtitle":    "Push your limits with enduro performance",
+        "Thumb":       "mountain.jpg",
+        "Images": [
+            "mountain.jpg"
+        ],
+        "Gender":      "female"
+    }
+]

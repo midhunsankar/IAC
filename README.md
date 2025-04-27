@@ -6,16 +6,26 @@ This repository contains my training resources for preparing for the Azure certi
 The following projects are part of this repository:
 
 ### Project 1: Container App
-This project demonstrates the deployment of a containerized .NET Core application using Terraform. The steps include:
-- Building a Docker image of a sample .NET Core application.
-- Pushing the Docker image to an Azure Container Registry.
-- Deploying the containerized application to an Azure Container Instance.
+This project demonstrates the deployment of a containerized .NET Core application using Terraform. The Terraform will exec following steps:
+- Build a Docker image of a sample .NET Core application.
+- Push the Docker image to an Azure Container Registry.
+- Deploy the containerized application.
 
 ### Project 2: Front Door Implementation
-This project focuses on implementing Azure Front Door to enhance application delivery and security. The steps include:
-- Creating an Azure Front Door profile using Terraform.
-- Configuring a custom domain for an Azure B2C workflow.
+This project focuses on implementing Azure Front Door to enhance application delivery and security. The Terraform will exec following steps:
+- Create an Azure Front Door profile using Terraform.
 - Setting up routing rules and backend pools for efficient traffic management.
+
+Additional steps you have to perform.
+- Configure a custom domain for an Azure B2C workflow, which includes domain verification.
+- Google custom domain verification azure b2c.
+
+### Project 3: Container Instance with cosmos db backend
+The project deploys a sample website written in GoLang and React to a conatiner instance. The backend database of this project is cosmos db.The Terraform will exec following steps:
+- Build a Docker image of a sample .NET Core application.
+- Push the Docker image to an Azure Container Registry.
+- Deploy the containerized application to an Azure Container Instance.
+- Create a cosmos db.
 
 ## Prerequisites
 To work with these projects, ensure you have the following:
